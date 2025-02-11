@@ -2,6 +2,15 @@
 
 Welcome to the Full-Stack Book Library App! This app allows users to manage books, track personal learnings, and manage their profiles with features like authentication, password recovery, and favorites management.  
 
+---
+
+## Screenshots
+
+![Book Library App Interface](/frontend/assets/screenshot/booklibraryapp.png)
+*Figure 1: User interface of the Full-Stack Book Library App showcasing book management and user profile features.*
+
+---
+
 ## Features ✨
 
 - **User Authentication**: Allows users to register, login, and logout.
@@ -69,6 +78,8 @@ npm run dev
 ```
 Start the app on your emulator or connected mobile device using Expo.
 
+---
+
 ## Usage 🛠️
 - Register a new user.
 - Login with valid credentials.
@@ -77,6 +88,7 @@ Start the app on your emulator or connected mobile device using Expo.
 - Add notes or learnings to books from your favorites list.
 - Update your profile and manage your user account.
 
+---
 
 ## API Endpoints
 Here’s a comprehensive list of the core API endpoints for interacting with the app:
@@ -195,6 +207,8 @@ Here’s a comprehensive list of the core API endpoints for interacting with the
 2. **GET `/books/:id/learning`**
    - **Description**: Retrieve learning notes for a specific book.
    - **Response**: List of notes related to the book.
+
+---
 
 ## Testing
 - Use tools like Postman to manually test API endpoints, or use built-in frontend components to test the app.
