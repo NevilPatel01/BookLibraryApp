@@ -2,11 +2,11 @@
 
 Welcome to the Full-Stack Book Library App! This app allows users to manage books, track personal learnings, and manage their profiles with features like authentication, password recovery, and favorites management.  
 
----
 
 ## Screenshots
 
 ![Book Library App Interface](/frontend/assets/screenshot/booklibraryapp.png)
+
 *Figure 1: User interface of the Full-Stack Book Library App showcasing book management and user profile features.*
 
 ---
